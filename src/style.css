@@ -155,7 +155,7 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
+  height: 2.4em !important;
   width: 2.5em !important;
 }
 
@@ -412,7 +412,6 @@ button:focus {
 }
 
 .footer-body {
-  z-index: 1;
   text-align: center !important;
 }
 
